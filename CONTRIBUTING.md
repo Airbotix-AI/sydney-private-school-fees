@@ -1,9 +1,5 @@
-# Contributing Greater Sydney fee research
+# Contributing
 
-Please open an issue or propose a correction with the record_id, school/campus, year level, domestic fee year, school source URL, check date and amount basis. Do not assume missing prices are zero. Do not substitute boarding, international, discounted or after-hours prices for domestic day-school fees.
+This repository is Markdown only. Make corrections directly in the relevant Markdown table; preserve school, campus and stage distinctions, source links, amount conditions and historical review dates. Update COVERAGE.md if counts or scope change.
 
-Update CSV and JSON together and keep identifiers stable; update coverage counts and the relevant readable table. Preserve historical dates rather than replacing them with the repository publication date. Source availability and amount extraction are separate statuses. Read [methodology](docs/methodology.md) before comparing amounts.
-
-Contributions use [CC BY 4.0 for original compilation and annotations](LICENSE.md); school documents retain their own terms. No full school PDFs, private contacts, student records, secrets or login bypasses.
-
-This repository contains data and Markdown only, with no Actions workflows, model calls or executable software. The [national collection](https://github.com/Airbotix-AI/australian-private-school-fees) is maintained separately.
+Include a school-owned fee source, domestic fee year, year level and review date with every price correction. Missing prices remain unknown. Never replace a missing full-time school price with after-hours programme pricing. Do not submit private documents, student/family details or credentials. Source documents retain their own rights; original compilation and annotations use the licence in LICENSE.md.

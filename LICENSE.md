@@ -8,4 +8,4 @@ Attribute the compilation to “Australian Private School Fees — Airbotix”, 
 
 This grant applies only to rights the contributors hold. Linked school fee documents, names, trademarks, government directories and third-party material retain their respective rights and terms. This licence does not grant rights over them. Full third-party fee schedules and bulk ACARA datasets are not distributed here. Fees are historical observations, provided without warranty; confirm with the school before relying on them.
 
-This city edition contains data and documentation only; no executable code or workflow files are included.
+This repository contains only Markdown data tables and documentation; no executable software is distributed.
