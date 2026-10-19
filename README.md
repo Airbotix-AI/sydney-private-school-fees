@@ -9,6 +9,8 @@ All amounts below are historical domestic fee research for 2026, reviewed in Jul
 
 [Coverage](COVERAGE.md) · [How to read the fees](docs/methodology.md)
 
+**Related reading:** [First-year cost article](https://airbotix.ai/blog/private-school-cost-australia-first-year-checklist) · [Primary fee guide](https://airbotix.ai/resources/sydney-private-school-fees-2026/) · [Secondary fee guide](https://airbotix.ai/resources/sydney-secondary-private-school-fees-2026/) · [All articles and resources](RESOURCES.md)
+
 ## Primary school fees
 
 | School / campus and source | 2026 annual amounts (AUD) | Other charges and conditions | Historical review |
@@ -635,6 +637,16 @@ All amounts below are historical domestic fee research for 2026, reviewed in Jul
 
 - [Sydney guide](https://airbotix.ai/resources/sydney-private-school-fees-2026/)
 - [Sydney Secondary guide](https://airbotix.ai/resources/sydney-secondary-private-school-fees-2026/)
+
+## Related articles and resources
+
+| Need | Resource |
+|---|---|
+| Build a first-year budget with entry payments, compulsory charges, setup costs and payment timing. | [First-year private school cost checklist](https://airbotix.ai/blog/private-school-cost-australia-first-year-checklist) |
+| Consider school access, context, support and daily fit alongside fees. | [Compare Australian schools without a single-number ranking](https://airbotix.ai/blog/how-to-compare-australian-schools-without-ranking) |
+| Read a school context measure without treating it as a quality score. | [What ICSEA means, and its limits](https://airbotix.ai/blog/what-does-icsea-mean-school-data) |
+| Use school data as contextual evidence alongside a school visit and current fee schedule. | [My School, ICSEA and NAPLAN parent guide](https://airbotix.ai/resources/australia-myschool-school-data-guide-en/) |
+| City guides, downloadable PDFs and official school registers | [Browse all related resources](RESOURCES.md) |
 
 [National collection](https://github.com/Airbotix-AI/australian-private-school-fees). This city edition is a subset of the national research, not additional school coverage.
 

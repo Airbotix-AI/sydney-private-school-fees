@@ -36,3 +36,7 @@ Submit the affected school/campus, stage, domestic fee year, year level, school 
 ## Rights
 
 The original factual compilation, annotations and documentation use CC BY 4.0; linked source documents retain their own rights. ACARA and state directories are discovery references, not a grant to relicense their datasets. No bulk ACARA dataset is distributed here. No student/family records, private contacts or credentials are included.
+
+## Further reading
+
+[Related articles, city guides and official directories](../RESOURCES.md) explain budget comparisons and school-data limits.

@@ -1,5 +1,7 @@
 # Sydney — 2026 fees
 
+[Related articles and resources](../RESOURCES.md) · [First-year cost checklist](https://airbotix.ai/blog/private-school-cost-australia-first-year-checklist)
+
 All amounts below are historical domestic fee research for 2026, reviewed in July 2026 and **not rechecked on publication in October**. Missing prices mean unknown, never free. Annual amounts may already include compulsory or family levies; do not add them twice. They are not consistently tuition-only amounts or complete first-year totals. Deposits/credits and non-refundable entry fees are separate cash categories. Confirm the current year, conditions and exclusions with the school. A record represents a school/campus and stage, not necessarily a unique school.
 
 [Airbotix parent guide](https://airbotix.ai/resources/sydney-private-school-fees-2026/) · [Methodology](methodology.md)
