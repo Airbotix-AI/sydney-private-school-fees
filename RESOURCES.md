@@ -51,3 +51,12 @@ If a link moves, use the linked organisation’s own navigation and submit a cor
 | How do we turn school dates into a workable break? | [Family holiday-planning worksheet](https://github.com/Airbotix-AI/australian-school-term-dates/blob/main/FAMILY-PLANNING.md) |
 
 These are government-school reference dates. Confirm the individual private school’s dates, pupil-free days and any activity booking separately; fee records do not establish school holidays.
+
+## Free coding and AI learning
+
+| Family need | Resource |
+|---|---|
+| Find a no-fee first coding or AI activity | [Free coding and AI resources for Australian kids](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia) — official sources, age guidance, account/hardware conditions and access limits |
+| Choose a manageable project and keep evidence of learning | [Learning paths](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia/blob/main/LEARNING-PATHS.md) · [Complete worked examples](https://github.com/Airbotix-AI/free-coding-ai-resources-for-kids-australia/blob/main/WORKED-EXAMPLES.md) |
+
+School fees, calendar dates and optional home learning are separate decisions. Check each resource’s free scope and the child’s readiness before starting.
