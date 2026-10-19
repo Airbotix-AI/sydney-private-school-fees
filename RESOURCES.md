@@ -41,3 +41,13 @@ Registration directories confirm identities and school status; they do not estab
 If a link moves, use the linked organisation’s own navigation and submit a correction. Do not replace a missing school-owned fee schedule with an unrelated third-party estimate.
 
 [Read the fees](README.md) · [Coverage](COVERAGE.md) · [Methodology](docs/methodology.md)
+
+## School dates and holiday planning
+
+| Next question | Resource |
+|---|---|
+| When are the government-school terms in 2026 and 2027? | [Australian school term dates — all eight states and territories](https://github.com/Airbotix-AI/australian-school-term-dates) |
+| Which dates and exceptions apply locally? | [NSW term dates and attendance notes](https://github.com/Airbotix-AI/australian-school-term-dates/blob/main/states/nsw.md) |
+| How do we turn school dates into a workable break? | [Family holiday-planning worksheet](https://github.com/Airbotix-AI/australian-school-term-dates/blob/main/FAMILY-PLANNING.md) |
+
+These are government-school reference dates. Confirm the individual private school’s dates, pupil-free days and any activity booking separately; fee records do not establish school holidays.
